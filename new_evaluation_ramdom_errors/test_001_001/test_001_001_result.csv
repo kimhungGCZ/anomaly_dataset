@@ -1,0 +1,2 @@
+,af_pre_anomaly,af_pre_change,af_re_anomaly,af_re_change,bf_pre_anomaly,bf_pre_change,bf_re_anomaly,bf_re_change,dataset,nb_anomalies,nb_change_point
+0,100.0,100.0,94.73684210526316,100.0,9.523809523809524,100.0,94.73684210526316,68.42105263157895,test_001_001,19,19
